@@ -20,6 +20,15 @@
 </p>
 
 ---
+<h2>What is an Algorithm?</h2>
+<img src="">
+  <p>The word Algorithm means ” A set of finite rules or instructions to be followed in calculations or other problem-solving operations ” <br>
+Or <br>
+” A procedure for solving a mathematical problem in a finite number of steps that frequently involves recursive operations”.
+
+</p>
+
+---
 
 <p align="center">
 💻 **You can run, edit, and contribute to the algorithms right in your browser using Gitpod.io!**  
