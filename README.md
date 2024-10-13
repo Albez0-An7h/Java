@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/TheAlgorithms/Java/actions/workflows/build.yml">
-    <img src="https://github.com/TheAlgorithms/Java/actions/workflows/build.yml/badge.svg?branch=master" alt="Build Status" width="200">
+    <img src="https://github.com/TheAlgorithms/Java/actions/workflows/build.yml/badge.svg?branch=master" alt="Build Status" width="150">
   </a>
   <a href="https://codecov.io/gh/TheAlgorithms/Java">
     <img src="https://codecov.io/gh/TheAlgorithms/Java/graph/badge.svg?token=XAdPyqTIqR" alt="Code Coverage" width="150">
@@ -66,7 +66,10 @@ Or <br>
 
 ---
 
-<h2>Types of Algorithm:🤖</h2>
+<h2>Types of Algorithm 🤖:</h2>
+<div align=center>
+<img src="https://github.com/Albez0-An7h/Java/blob/8ae51c3fb637f9f5ddc2b8385503f4c62fa88e21/Types%20of%20Algorithm%201.webp" width="400" height="250">
+</div>
 <p><h3>1)Search engine algorithm: </h3>This algorithm takes search strings of keywords and operators as input, searches its associated database for relevant webpages and returns results.<br>
 <h3>2)Encryption algorithm:</h3> This computing algorithm transforms data according to specified actions to protect it. A symmetric key algorithm, such as the Data Encryption Standard, for example, uses the same key to encrypt and decrypt data. If the algorithm is sufficiently sophisticated, no one lacking the key can decrypt the data.<br>
 <h3>3)Greedy algorithm: </h3>This algorithm solves optimization problems by finding the locally optimal solution, hoping it is the optimal solution at the global level. However, it does not guarantee the most optimal solution.<br>
@@ -78,6 +81,21 @@ Or <br>
 <h3>9)Sorting algorithm:</h3> Sorting algorithms are used to rearrange data structures based on a comparison operator, which is used to decide a new order for data.<br>
 <h3>10)Hashing algorithm:</h3> This algorithm takes data and converts it into a uniform message with a hashing.<br>
 <h3>11)Randomized algorithm:</h3> This algorithm reduces running times and time-based complexities. It uses random elements as part of its logic.
+</p>
+
+---
+
+<h2>Uses of Algorithms in real life 👀: </h2>
+<p><h3>1)Search engines</h3>
+Google's / Youtube's search algorithm sorts through billions of web pages or videos to present information to users.
+  <h3>2)Transportation</h3>
+GPS systems use algorithms to manage transportation systems, including ride sharing and shipping. Self-driving cars use deep learning algorithms to analyze the roads and vehicles around them to make decisions and predict accidents.
+  <h3>3) Image processing</h3>
+Computer algorithms are used to enhance the properties of digital images in smart phones.
+  <h3>4)Environmental conservation</h3>
+Algorithms can analyze data to predict natural disasters, model climate scenarios, and optimize resource usage. 
+<h3>5)Classifying Objects</h3>
+Classification algorithms are used to predict a categorical output. For example, a classification algorithm could be used to predict whether an email is spam or not.
 </p>
 
 ---
